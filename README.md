@@ -7,4 +7,6 @@ Suppose you have a tree that ![image](https://github.com/user-attachments/assets
 
 
 In this notebook, it will be read as <br /> ![image](https://github.com/user-attachments/assets/696a4bef-a436-4f06-ab46-6b462cd04e63). <br />
-Where the more indent, the deeper we get to the bottom nodes
+Where the more indent, the deeper we get to the bottom nodes. <br />
+
+Finally, the minimax function will give you the value for root node at the top.
