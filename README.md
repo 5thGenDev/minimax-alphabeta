@@ -6,5 +6,5 @@
 Suppose you have a tree that ![image](https://github.com/user-attachments/assets/2ed56087-97b6-4172-abda-605aab227e7b): <br />
 
 
-In this notebook, it will be read ![image](https://github.com/user-attachments/assets/696a4bef-a436-4f06-ab46-6b462cd04e63). <br />
+In this notebook, it will be read as <br /> ![image](https://github.com/user-attachments/assets/696a4bef-a436-4f06-ab46-6b462cd04e63). <br />
 Where the more indent, the deeper we get to the bottom nodes
