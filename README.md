@@ -7,4 +7,4 @@ Suppose you have a tree that ![image](https://github.com/user-attachments/assets
 : \\
 
 
-In this notebook, it will be read ![image](https://github.com/user-attachments/assets/696a4bef-a436-4f06-ab46-6b462cd04e63). Where the more indent, the deeper we get to the bottom nodes
+In this notebook, it will be read ![image](https://github.com/user-attachments/assets/696a4bef-a436-4f06-ab46-6b462cd04e63). \\ Where the more indent, the deeper we get to the bottom nodes
